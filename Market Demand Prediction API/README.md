@@ -1,4 +1,4 @@
-To run the App
+To run the API
 
 clone the repository
 Launch the docker compose file in your docker container
